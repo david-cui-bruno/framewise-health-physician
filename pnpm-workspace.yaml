@@ -1,0 +1,7 @@
+approveBuilds: supabase
+
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver
+onlyBuiltDependencies:
+  - supabase
